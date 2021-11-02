@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Steve Michaelis",
-		"dependencies": {
+	"description": "learning back end",
+
+	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
