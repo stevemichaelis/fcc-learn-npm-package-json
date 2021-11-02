@@ -4,6 +4,7 @@
 	"description": "learning back end",
 	"keywords": ["back end", "package.json", "tutorial", "solutions", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.1.5",
 
 	"dependencies": {
 		"express": "^4.14.0"
