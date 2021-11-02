@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Steve Michaelis",
 	"description": "learning back end",
+	"keywords": ["back end", "package.json"],
 
 	"dependencies": {
 		"express": "^4.14.0"
