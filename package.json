@@ -3,6 +3,7 @@
 	"author": "Steve Michaelis",
 	"description": "learning back end",
 	"keywords": ["back end", "package.json", "tutorial", "solutions", "freecodecamp"],
+	"license": "MIT",
 
 	"dependencies": {
 		"express": "^4.14.0"
