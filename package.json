@@ -9,6 +9,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/stevemichaelis/fcc-learn-npm-package-json.git"
 	}
 }
