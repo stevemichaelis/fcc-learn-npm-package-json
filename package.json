@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/stevemichaelis/fcc-learn-npm-package-json.git"
+		"url": "https://git.heroku.com/fcc-learn-npm-package-json.git"
 	}
 }
